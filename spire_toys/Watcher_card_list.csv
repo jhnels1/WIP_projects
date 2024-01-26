@@ -1,0 +1,76 @@
+,Name,Picture,Rarity,Type,Energy,Description
+0,Defend,,Starter,Skill,1,Gain 5(8) Block.
+1,Eruption,,Starter,Attack,2(1),Deal 9 damage. Enter Wrath.
+2,Strike,,Starter,Attack,1,Deal 6(9) damage.
+3,Vigilance,,Starter,Skill,2,Enter Calm. Gain 8(12) Block.
+4,Bowling Bash,,Common,Attack,1,Deal 7(10) damage for each enemy in combat.
+5,Consecrate,,Common,Attack,0,Deal 5(8) damage to ALL enemies.
+6,Crescendo,,Common,Skill,1(0),Retain. Enter Wrath. Exhaust.
+7,Crush Joints,,Common,Attack,1,"Deal 8(10) damage. If the previous card played was a skill, apply 1(2) Vulnerable."
+8,Cut Through Fate,,Common,Attack,1,Deal 7(9) damage. Scry 2(3). Draw 1 card.
+9,Empty Body,,Common,Skill,1,Gain 7(10) Block. Exit your Stance.
+10,Empty Fist,,Common,Attack,1,Deal 9(14) damage. Exit your Stance.
+11,Evaluate,,Common,Skill,1,Gain 6(10) Block. Shuffle an Insight into your draw pile.
+12,Flurry of Blows,,Common,Attack,0,"Deal 4(6) damage. On Stance change, returns from the Discard Pile into your hand."
+13,Flying Sleeves,,Common,Attack,1,Retain. Deal 4(6) damage twice.
+14,Follow-Up,,Common,Attack,1,"Deal 7(11) damage. If the previous card played was an Attack, gain Energy."
+15,Halt,,Common,Skill,0,Gain 3(4) Block. Wrath: Gain 9(14) additional block.
+16,Just Lucky,,Common,Attack,0,Scry 1(2). Gain 2(3) Block. Deal 3(4) damage.
+17,Pressure Points,,Common,Skill,1,Apply 8(11) Mark. ALL enemies lose HP equal to their Mark.
+18,Prostrate,,Common,Skill,0,Gain 2(3) Mantra. Gain 4 Block.
+19,Protect,,Common,Skill,2,Retain. Gain 12(16) Block.
+20,Sash Whip,,Common,Attack,1,"Deal 8(10) damage. If the last card played this combat was an Attack, apply 1(2) Weak."
+21,Third Eye,,Common,Skill,1,Gain 7(9) Block. Scry 3(5).
+22,Tranquility,,Common,Skill,1(0),Retain. Enter Calm. Exhaust.
+23,Battle Hymn,,Uncommon,Power,1,(Innate.) At the start of each turn add a Smite into your hand.
+24,Carve Reality,,Uncommon,Attack,1,Deal 6(10) damage. Add a Smite into your hand.
+25,Collect,,Uncommon,Skill,X,Put an Upgraded Miracle into your hand at the start of your next X(+1) turns. Exhaust.
+26,Conclude,,Uncommon,Attack,1,Deal 12(16) damage to ALL enemies. End your turn.
+27,Deceive Reality,,Uncommon,Skill,1,Gain 4(7) Block. Add a Safety to your hand.
+28,Empty Mind,,Uncommon,Skill,1,Exit your Stance. Draw 2(3) cards.
+29,Fasting,,Uncommon,Power,2,Gain 3(4) Strength. Gain 3(4) Dexterity. Gain 1 less Energy at the start of each turn.
+30,Fear No Evil,,Uncommon,Attack,1,"Deal 8(11) damage. If the enemy intends to Attack, enter Calm."
+31,Foreign Influence,,Uncommon,Skill,0,Choose 1 of 3 Attacks of any color to add to your hand. (It costs 0 this turn.) Exhaust.
+32,Foresight,,Uncommon,Power,1,"At the start of your turn, Scry 3(4)."
+33,Indignation,,Uncommon,Skill,1,"If you are in Wrath, apply 3(5) Vulnerable to ALL enemies, otherwise enter Wrath."
+34,Inner Peace,,Uncommon,Skill,1,"If you are in Calm, draw 3(4) cards, otherwise Enter Calm."
+35,Like Water,,Uncommon,Power,1,"At the end of your turn, if you are in Calm, gain 5(7) Block."
+36,Meditate,,Uncommon,Skill,1,Put 1(2) card(s) from your discard pile into your hand and Retain it. Enter Calm. End your turn.
+37,Mental Fortress,,Uncommon,Power,1,"Whenever you switch Stances, gain 4(6) Block."
+38,Nirvana,,Uncommon,Power,1,"Whenever you Scry, gain 3(4) Block."
+39,Perseverance,,Uncommon,Skill,1,"Retain. Gain 5(7) Block. Whenever this card is Retained, increase its Block by 2(3)."
+40,Pray,,Uncommon,Skill,1,Gain 3(4) Mantra. Shuffle an Insight into your draw pile.
+41,Reach Heaven,,Uncommon,Attack,2,Deal 10(15) damage. Shuffle a Through Violence into your draw pile.
+42,Rushdown,,Uncommon,Power,1(0),"Whenever you enter Wrath, draw 2 cards."
+43,Sanctity,,Uncommon,Skill,1,"Gain 6(9) Block. If the previous card played was a Skill, draw 2 card."
+44,Sands of Time,,Uncommon,Attack,4,"Retain. Deal 20(26) damage. Whenever this card is Retained, lower its cost by 1."
+45,Signature Move,,Uncommon,Attack,2,Can only be played if this is the only attack in your hand. Deal 30(40) damage.
+46,Simmering Fury,,Uncommon,Skill,1,"At the start of your next turn, enter Wrath and draw 2(3) cards."
+47,Study,,Uncommon,Power,2(1),"At the end of your turn, shuffle an Insight into your draw pile."
+48,Swivel,,Uncommon,Skill,2,Gain 8(11) Block. The next Attack you play costs 0.
+49,Talk to the Hand,,Uncommon,Attack,1,"Deal 5(7) damage. Whenever you attack this enemy, gain 2(3) Block. Exhaust."
+50,Tantrum,,Uncommon,Attack,1,Deal 3 damage 3(4) times. Enter Wrath. Shuffle this card into your draw pile.
+51,Wallop,,Uncommon,Attack,2,Deal 9(12) damage. Gain Block equal to unblocked damage dealt.
+52,Wave of the Hand,,Uncommon,Skill,1,"Whenever you gain Block this turn, apply 1(2) Weak to ALL enemies."
+53,Weave,,Uncommon,Attack,0,"Deal 4(6) damage. Whenever you Scry, return this from the discard pile to your Hand."
+54,Wheel Kick,,Uncommon,Attack,2,Deal 15(20) damage. Draw 2 cards.
+55,Windmill Strike,,Uncommon,Attack,2,"Retain. Deal 7(10) damage. Whenever this card is Retained, increase its damage by 4(5)."
+56,Worship,,Uncommon,Skill,2,( Retain.) Gain 5 Mantra.
+57,Wreath of Flame,,Uncommon,Skill,1,Your next Attack deals 5(8) additional damage.
+58,Alpha,,Rare,Skill,1,(Innate.) Shuffle a Beta into your draw pile. Exhaust.
+59,Blasphemy,,Rare,Skill,1,(Retain.) Enter Divinity. Die next turn. Exhaust.
+60,Brilliance,,Rare,Attack,1,Deal 12(16) damage. Deals additional damage for all Mantra gained this combat.
+61,Conjure Blade,,Rare,Skill,X,Shuffle an Expunger with X(+1) into your draw pile. Exhaust.
+62,Deus Ex Machina,,Rare,Skill,Unplayable,"Unplayable. When you draw this card, add 2(3) Miracles into your hand. Exhaust."
+63,Deva Form,,Rare,Power,3,"Ethereal. At the start of your turn, gain Energy and increase this gain by 1. (not Ethereal.)"
+64,Devotion,,Rare,Power,1,"At the start of your turn, gain 2(3) Mantra."
+65,Establishment,,Rare,Power,1,"(Innate.) Whenever a card is Retained, lower its cost by 1."
+66,Judgment,,Rare,Skill,1,"If the enemy has 30(40) or less HP, set their HP to 0."
+67,Lesson Learned,,Rare,Attack,2,"Deal 10(13) damage. If this kills an enemy, Upgrade a random card in your deck. Exhaust."
+68,Master Reality,,Rare,Power,1(0),"Whenever a card is created during combat, Upgrade it."
+69,Omniscience,,Rare,Skill,4(3),Choose a card in your draw pile. Play the chosen card twice and Exhaust it. Exhaust.
+70,Ragnarok,,Rare,Attack,3,Deal 5(6) damage to a random enemy 5(6) times.
+71,Scrawl,,Rare,Skill,1(0),Draw cards until your hand is full. Exhaust.
+72,Spirit Shield,,Rare,Skill,2,Gain 3(4) Block for each card in your hand.
+73,Vault,,Rare,Skill,3(2),Take an extra turn after this one. End your turn. Exhaust.
+74,Wish,,Rare,Skill,3,"Choose one: Gain 6(8) Plated Armor, 3(4) Strength, or 25(30) Gold. Exhaust."

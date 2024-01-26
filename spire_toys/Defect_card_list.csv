@@ -1,0 +1,76 @@
+,Name,Picture,Rarity,Type,Energy,Description
+0,Defend,,Starter,Skill,1,Gain 5(8) Block.
+1,Dualcast,,Starter,Skill,1(0),Evoke your next Orb twice.
+2,Strike,,Starter,Attack,1,Deal 6(9) damage.
+3,Zap,,Starter,Skill,1(0),Channel 1 Lightning.
+4,Ball Lightning,,Common,Attack,1,Deal 7(10) damage. Channel 1 Lightning.
+5,Barrage,,Common,Attack,1,Deal 4(6) damage for each Channeled Orb.
+6,Beam Cell,,Common,Attack,0,Deal 3(4) damage and apply 1(2) Vulnerable.
+7,Charge Battery,,Common,Skill,1,"Gain 7(10) Block. Next turn, gain 1 Energy."
+8,Claw,,Common,Attack,0,Deal 3(5) damage. Increase the damage of ALL Claw cards by 2 this combat.
+9,Cold Snap,,Common,Attack,1,Deal 6(9) damage. Channel 1 Frost.
+10,Compile Driver,,Common,Attack,1,Deal 7(10) damage. Draw 1 card for each unique Orb you have.
+11,Coolheaded,,Common,Skill,1,Channel 1 Frost. Draw 1(2) card(s).
+12,Go for the Eyes,,Common,Attack,0,"Deal 3(4) damage. If the enemy intends to attack, apply 1(2) Weak."
+13,Hologram,,Common,Skill,1,Gain 3(5) Block. Return a card from your discard pile to your hand. Exhaust (does not Exhaust).
+14,Leap,,Common,Skill,1,Gain 9(12) Block.
+15,Rebound,,Common,Attack,1,Deal 9(12) damage. Put the next card you play this turn on top of your draw pile.
+16,Recursion,,Common,Skill,1(0),Evoke your next Orb. Channel the Orb that was just Evoked.
+17,Stack,,Common,Skill,1,Gain Block equal to the number of cards in your discard pile (+3).
+18,Steam Barrier,,Common,Skill,0,Gain 6(8) Block. Decrease this card's Block by 1 this combat.
+19,Streamline,,Common,Attack,2,"Deal 15(20) damage. Whenever you play this card, reduce its cost by 1 for this combat."
+20,Sweeping Beam,,Common,Attack,1,Deal 6(9) damage to ALL enemies. Draw 1 card.
+21,TURBO,,Common,Skill,0,Gain 2(3) Energy. Add a Void into your discard pile.
+22,Aggregate,,Uncommon,Skill,1,Gain 1 Energy for every 4(3) cards in your draw pile.
+23,Auto-Shields,,Uncommon,Skill,1,"If you have no Block, gain 11(15) Block."
+24,Blizzard,,Uncommon,Attack,1,Deal damage equal to 2(3) times the number of Frost Channeled this combat to ALL enemies.
+25,Boot Sequence,,Uncommon,Skill,0,Innate. Gain 10(13) Block. Exhaust.
+26,Bullseye,,Uncommon,Attack,1,Deal 8(11) damage. Apply 2(3) Lock-On.
+27,Capacitor,,Uncommon,Power,1,Gain 2(3) Orb slots.
+28,Chaos,,Uncommon,Skill,1,Channel 1(2) random Orb(s).
+29,Chill,,Uncommon,Skill,0,(Innate.) Channel 1 Frost for each enemy in combat (per enemy in combat). Exhaust.
+30,Consume,,Uncommon,Skill,2,Gain 2(3) Focus. Lose 1 Orb Slot.
+31,Darkness,,Uncommon,Skill,1,Channel 1 Dark. (Trigger the passive ability of all Dark orbs.)
+32,Defragment,,Uncommon,Power,1,Gain 1(2) Focus.
+33,Doom and Gloom,,Uncommon,Attack,2,Deal 10(14) damage to ALL enemies. Channel 1 Dark.
+34,Double Energy,,Uncommon,Skill,1(0),Double your Energy. Exhaust.
+35,Equilibrium,,Uncommon,Skill,2,Gain 13(16) Block. Retain your hand this turn.
+36,FTL,,Uncommon,Attack,0,"Deal 5(6) damage. If you have played less than 3(4) cards this turn, draw 1 card."
+37,Force Field,,Uncommon,Skill,4,Costs 1 less Energy for each Power card played this combat. Gain 12(16) Block.
+38,Fusion,,Uncommon,Skill,2(1),Channel 1 Plasma.
+39,Genetic Algorithm,,Uncommon,Skill,1,Gain 1 Block. Permanently increase this card's Block by 2(3). Exhaust.
+40,Glacier,,Uncommon,Skill,2,Gain 7(10) Block. Channel 2 Frost.
+41,Heatsinks,,Uncommon,Power,1,"Whenever you play a Power card, draw 1(2) card(s)."
+42,Hello World,,Uncommon,Power,1,"(Innate.) At the start of your turn, add a random Common card into your hand."
+43,Loop,,Uncommon,Power,1,"At the start of your turn, trigger the passive ability of your next Orb (2 times)."
+44,Melter,,Uncommon,Attack,1,Remove all Block from an enemy. Deal 10(14) damage.
+45,Overclock,,Uncommon,Skill,0,Draw 2(3) cards. Add a Burn into your discard pile.
+46,Recycle,,Uncommon,Skill,1(0),Exhaust a card. Gain Energy equal to its cost.
+47,Reinforced Body,,Uncommon,Skill,X,Gain 7(9) Block X times.
+48,Reprogram,,Uncommon,Skill,1,Lose 1(2) Focus. Gain 1(2) Strength. Gain 1(2) Dexterity.
+49,Rip and Tear,,Uncommon,Attack,1,Deal 7(9) damage to a random enemy 2 times.
+50,Scrape,,Uncommon,Attack,1,Deal 7(10) damage. Draw 4(5) cards. Discard all cards drawn this way that do not cost 0.
+51,Self Repair,,Uncommon,Power,1,"At the end of combat, heal 7(10) HP."
+52,Skim,,Uncommon,Skill,1,Draw 3(4) cards.
+53,Static Discharge,,Uncommon,Power,1,"Whenever you take attack damage, Channel 1(2) Lightning."
+54,Storm,,Uncommon,Power,1,"(Innate.) Whenever you play a Power card, Channel 1 Lightning."
+55,Sunder,,Uncommon,Attack,3,"Deal 24(32) damage. If this kills an enemy, gain 3 Energy."
+56,Tempest,,Uncommon,Skill,X,Channel X(+1) Lightning. Exhaust.
+57,White Noise,,Uncommon,Skill,1(0),Add a random Power to your hand. It costs 0 this turn. Exhaust.
+58,All for One,,Rare,Attack,2,Deal 10(14) damage. Put all cost 0 cards from your discard pile into your hand.
+59,Amplify,,Rare,Skill,1,"This turn, your next 1(2) Power(s) is (are) played twice."
+60,Biased Cognition,,Rare,Power,1,"Gain 4(5) Focus. At the start of each turn, lose 1 Focus."
+61,Buffer,,Rare,Power,2,Prevent the next (1(2)) time(s) you would lose HP.
+62,Core Surge,,Rare,Attack,1,Deal 11(15) damage. Gain 1 Artifact. Exhaust.
+63,Creative AI,,Rare,Power,3(2),"At the start of each turn, add a random Power card to your hand."
+64,Echo Form,,Rare,Power,3,Ethereal. (not Ethereal.) The first card you play each turn is played twice.
+65,Electrodynamics,,Rare,Power,2,Lightning now hits ALL enemies. Channel 2(3) Lightning.
+66,Fission,,Rare,Skill,0,Remove (Evoke) ALL of your Orbs. Gain 1 Energy and draw 1 card for each Orb removed(evoked). Exhaust.
+67,Hyperbeam,,Rare,Attack,2,Deal 26(34) damage to ALL enemies. Lose 3 Focus.
+68,Machine Learning,,Rare,Power,1,"(Innate.) At the start of your turn, draw 1 additional card."
+69,Meteor Strike,,Rare,Attack,5,Deal 24(30) damage. Channel 3 Plasma.
+70,Multi-Cast,,Rare,Skill,X,Evoke your next Orb X (X+1) times.
+71,Rainbow,,Rare,Skill,2,"Channel 1 Lightning, 1 Frost, and 1 Dark. Exhaust. (does not Exhaust.)"
+72,Reboot,,Rare,Skill,0,"Shuffle all of your cards into your draw pile, then draw 4(6) cards. Exhaust."
+73,Seek,,Rare,Skill,0,Choose a (2) card(s) from your draw pile and place it (them) into your hand. Exhaust.
+74,Thunder Strike,,Rare,Attack,3,Deal 7(9) damage to a random enemy for each Lightning Channeled this combat.

@@ -1,0 +1,49 @@
+,Name,Picture,Rarity,Type,Energy,Description
+0,Bandage Up,,Uncommon,Skill,0,Heal 4(6) HP. Exhaust.
+1,Blind,,Uncommon,Skill,0,Apply 2 Weak (to ALL enemies).
+2,Dark Shackles,,Uncommon,Skill,0,Enemy loses 9(15) Strength for the rest of this turn. Exhaust.
+3,Deep Breath,,Uncommon,Skill,0,Shuffle your discard pile into your draw pile. Draw 1(2) card(s).
+4,Discovery,,Uncommon,Skill,1,Choose 1 of 3 random cards to add to your hand. It costs 0 this turn. Exhaust. (Don't Exhaust.)
+5,Dramatic Entrance,,Uncommon,Attack,0,Innate. Deal 8(12) damage to ALL enemies. Exhaust.
+6,Enlightenment,,Uncommon,Skill,0,Reduce the cost of cards in your hand to 1 this turn(combat).
+7,Finesse,,Uncommon,Skill,0,Gain 2(4) Block. Draw 1 card.
+8,Flash of Steel,,Uncommon,Attack,0,Deal 3(6) damage. Draw 1 card.
+9,Forethought,,Uncommon,Skill,0,Place a card(any number of cards) from your hand on the bottom of your draw pile. It (They) costs 0 until played.
+10,Good Instincts,,Uncommon,Skill,0,Gain 6(9) Block.
+11,Impatience,,Uncommon,Skill,0,"If you have no Attack cards in your hand, draw 2(3) cards."
+12,Jack Of All Trades,,Uncommon,Skill,0,Add 1(2) random Colorless card(s) to your hand. Exhaust.
+13,Madness,,Uncommon,Skill,1(0),A random card in your hand costs 0 for the rest of combat. Exhaust.
+14,Mind Blast,,Uncommon,Attack,2(1),Innate. Deal damage equal to the number of cards in your draw pile.
+15,Panacea,,Uncommon,Skill,0,Gain 1(2) Artifact. Exhaust.
+16,Panic Button,,Uncommon,Skill,0,Gain 30(40) Block. You cannot gain Block from cards for the next 2 turns. Exhaust.
+17,Purity,,Uncommon,Skill,0,Choose and exhaust 3(5) cards in your hand. Exhaust.
+18,Swift Strike,,Uncommon,Attack,0,Deal 7(10) damage.
+19,Trip,,Uncommon,Skill,0,Apply 2 Vulnerable (to ALL enemies).
+20,Apotheosis,,Rare,Skill,2(1),Upgrade ALL of your cards for the rest of combat. Exhaust.
+21,Chrysalis,,Rare,Skill,2,Add 3(5) random Skills into your Draw Pile. They cost 0 this combat. Exhaust.
+22,Hand of Greed,,Rare,Attack,2,"Deal 20(25) damage. If this kills a non-minion enemy, gain 20(25) Gold."
+23,Magnetism,,Rare,Power,2(1),"At the start of each turn, add a random colorless card to your hand."
+24,Master Of Strategy,,Rare,Skill,0,Draw 3(4) cards. Exhaust.
+25,Mayhem,,Rare,Power,2(1),"At the start of your turn, play the top card of your draw pile."
+26,Metamorphosis,,Rare,Skill,2,Add 3(5) random Attacks into your Draw Pile. They cost 0 this combat. Exhaust.
+27,Panache,,Rare,Power,0,"Every time you play 5 cards in a single turn, deal 10(14) damage to ALL enemies."
+28,Sadistic Nature,,Rare,Power,0,"Whenever you apply a Debuff to an enemy, they take 5(7) damage."
+29,Secret Technique,,Rare,Skill,0,Choose a Skill from your draw pile and place it into your hand. Exhaust. (Don't Exhaust)
+30,Secret Weapon,,Rare,Skill,0,Choose an Attack from your draw pile and place it into your hand. Exhaust. (Don't Exhaust)
+31,The Bomb,,Rare,Skill,2,"At the end of 3 turns, deal 40(50) damage to ALL enemies."
+32,Thinking Ahead,,Rare,Skill,0,Draw 2 cards. Place a card from your hand on top of your draw pile. Exhaust. (Don't Exhaust)
+33,Transmutation,,Rare,Skill,X,Add X random (Upgraded) colorless cards into your hand. They cost 0 this turn. Exhaust.
+34,Violence,,Rare,Skill,0,Place 3(4) random Attack cards from your draw pile into your hand. Exhaust.
+35,Apparition,,Special,Skill,1,Gain 1 Intangible. Exhaust. Ethereal. (no longer Ethereal.) (Obtained from event: Council of Ghosts).
+36,Beta,,Special,Skill,2(1),Shuffle an Omega into your draw pile. Exhaust. (Obtained from Alpha).
+37,Bite,,Special,Attack,1,Deal 7(8) damage. Heal 2(3) HP. (Obtained from event: Vampires(?)).
+38,Expunger,,Special,Attack,1,Deal 9(15) damage X times. (Obtained from Conjure Blade).
+39,Insight,,Special,Skill,0,"Retain. Draw 2(3) cards. Exhaust. (Obtained from Evaluate, Pray and Study)."
+40,J.A.X.,,Special,Skill,0,Lose 3 HP. Gain 2(3) Strength. (Obtained from event: Augmenter).
+41,Miracle,,Special,Skill,0,"Retain. Gain (2) Energy. Exhaust. (Obtained from Collect, Deus Ex Machina, Pure Water, and Holy Water)."
+42,Omega,,Special,Power,3,At the end of your turn deal 50(60) damage to ALL enemies. (Obtained from Beta).
+43,Ritual Dagger,,Special,Attack,1,Deal 15 damage. If this kills an enemy then permanently increase this card's damage by 3(5). Exhaust. (Obtained during event: The Nest)
+44,Safety,,Special,Skill,1,Retain. Gain 12(16) Block. Exhaust. (Obtained from Deceive Reality).
+45,Shiv,,Special,Attack,0,"Deal 4(6) damage. Exhaust. (Obtained from Blade Dance, Cloak and Dagger, Infinite Blades, Storm of Steel, and Ninja Scroll)."
+46,Smite,,Special,Attack,1,Retain. Deal 12(16) damage. Exhaust. (Obtained from Carve Reality and Battle Hymn).
+47,Through Violence,,Special,Attack,0,Retain. Deal 20(30) damage. Exhaust. (Obtained from Reach Heaven).

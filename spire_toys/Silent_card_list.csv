@@ -1,0 +1,76 @@
+,Name,Picture,Rarity,Type,Energy,Description
+0,Defend,,Starter,Skill,1,Gain 5(8) Block.
+1,Neutralize,,Starter,Attack,0,Deal 3(4) damage. Apply 1(2) Weak.
+2,Strike,,Starter,Attack,1,Deal 6(9) damage.
+3,Survivor,,Starter,Skill,1,Gain 8(11) Block. Discard a card.
+4,Acrobatics,,Common,Skill,1,Draw 3(4) cards. Discard 1 card.
+5,Backflip,,Common,Skill,1,Gain 5(8) block. Draw 2 cards.
+6,Bane,,Common,Attack,1,"Deal 7(10) damage. If the enemy is Poisoned, deal 7(10) damage again."
+7,Blade Dance,,Common,Skill,1,Add 3(4) Shivs to your hand.
+8,Cloak And Dagger,,Common,Skill,1,Gain 6 Block. Add 1(2) Shiv(s) to your hand.
+9,Dagger Spray,,Common,Attack,1,Deal 4(6) damage to ALL enemies twice.
+10,Dagger Throw,,Common,Attack,1,Deal 9(12) damage. Draw 1 card. Discard 1 card.
+11,Deadly Poison,,Common,Skill,1,Apply 5(7) Poison.
+12,Deflect,,Common,Skill,0,Gain 4(7) Block.
+13,Dodge and Roll,,Common,Skill,1,Gain 4(6) Block. Next turn gain 4(6) Block.
+14,Flying Knee,,Common,Attack,1,Deal 8(11) damage. Next turn gain 1 Energy.
+15,Outmaneuver,,Common,Skill,1,"Next turn, gain 2(3) Energy."
+16,Piercing Wail,,Common,Skill,1,ALL enemies lose 6(8) Strength for 1 turn. Exhaust.
+17,Poisoned Stab,,Common,Attack,1,Deal 6(8) damage. Apply 3(4) Poison.
+18,Prepared,,Common,Skill,0,Draw 1(2) card(s). Discard 1(2) card(s).
+19,Quick Slash,,Common,Attack,1,Deal 8(12) damage. Draw 1 card.
+20,Slice,,Common,Attack,0,Deal 6(9) damage.
+21,Sneaky Strike,,Common,Attack,2,"Deal 12(16) damage. If you have discarded a card this turn, gain 2 Energy."
+22,Sucker Punch,,Common,Attack,1,Deal 7(9) damage. Apply 1(2) Weak.
+23,Accuracy,,Uncommon,Power,1,Shivs deal 4(6) additional damage.
+24,All-Out Attack,,Uncommon,Attack,1,Deal 10(14) damage to ALL enemies. Discard 1 card at random.
+25,Backstab,,Uncommon,Attack,0,Deal 11(15) damage. Innate. Exhaust.
+26,Blur,,Uncommon,Skill,1,Gain 5(8) Block. Block is not removed at the start of your next turn.
+27,Bouncing Flask,,Uncommon,Skill,2,Apply 3 poison to a random enemy 3(4) times.
+28,Calculated Gamble,,Uncommon,Skill,0,"Discard your hand, then draw that many cards. Exhaust. (Don't exhaust)"
+29,Caltrops,,Uncommon,Power,1,"Whenever you are attacked, deal 3(5) damage back."
+30,Catalyst,,Uncommon,Skill,1,Double(Triple) an enemy's Poison. Exhaust.
+31,Choke,,Uncommon,Attack,2,"Deal 12 damage. Whenever you play a card this turn, the targeted enemy loses 3(5) HP."
+32,Concentrate,,Uncommon,Skill,0,Discard 3(2) cards. Gain 2 Energy.
+33,Crippling Cloud,,Uncommon,Skill,2,Apply 4(7) Poison and 2 Weak to ALL enemies. Exhaust.
+34,Dash,,Uncommon,Attack,2,Gain 10(13) Block. Deal 10(13) damage.
+35,Distraction,,Uncommon,Skill,1(0),Add a random Skill to your hand. It costs 0 this turn. Exhaust.
+36,Endless Agony,,Uncommon,Attack,0,"Whenever you draw this card, add a copy of it to your hand. Deal 4(6) damage. Exhaust."
+37,Escape Plan,,Uncommon,Skill,0,"Draw 1 card. If you draw a Skill, gain 3(5) Block."
+38,Eviscerate,,Uncommon,Attack,3,Costs 1 less Energy for each card discarded this turn. Deal 7(9) damage three times.
+39,Expertise,,Uncommon,Skill,1,Draw cards until you have 6(7) in your hand.
+40,Finisher,,Uncommon,Attack,1,Deal 6(8) damage for each Attack played this turn.
+41,Flechettes,,Uncommon,Attack,1,Deal 4(6) damage for each Skill in your hand.
+42,Footwork,,Uncommon,Power,1,Gain 2(3) Dexterity.
+43,Heel Hook,,Uncommon,Attack,1,"Deal 5(8) damage. If the enemy is Weak, Gain 1 Energy and draw 1 card."
+44,Infinite Blades,,Uncommon,Power,1,"(Innate.) At the start of your turn, add a Shiv to your hand."
+45,Leg Sweep,,Uncommon,Skill,2,Apply 2(3) Weak. Gain 11(14) Block.
+46,Masterful Stab,,Uncommon,Attack,0,Costs 1 additional Energy for each time you lose HP this combat. Deal 12(16) damage.
+47,Noxious Fumes,,Uncommon,Power,1,"At the start of your turn, apply 2(3) Poison to ALL enemies."
+48,Predator,,Uncommon,Attack,2,Deal 15(20) damage. Draw 2 more cards next turn.
+49,Reflex,,Uncommon,Skill,,"Unplayable. If this card is discarded from your hand, draw 2(3) cards."
+50,Riddle With Holes,,Uncommon,Attack,2,Deal 3(4) damage 5 times.
+51,Setup,,Uncommon,Skill,1(0),Place a card in your hand on top of your draw pile. It costs 0 until it is played.
+52,Skewer,,Uncommon,Attack,X,Deal 7(10) damage X times.
+53,Tactician,,Uncommon,Skill,,"Unplayable. If this card is discarded from your hand, gain 1(2) Energy."
+54,Terror,,Uncommon,Skill,1(0),Apply 99 Vulnerable. Exhaust.
+55,Well-Laid Plans,,Uncommon,Power,1,"At the end of your turn, Retain up to 1(2) card(s)."
+56,A Thousand Cuts,,Rare,Power,2,"Whenever you play a card, deal 1(2) damage to ALL enemies."
+57,Adrenaline,,Rare,Skill,0,Gain 1(2) Energy. Draw 2 cards. Exhaust.
+58,After Image,,Rare,Power,1,"(Innate.) Whenever you play a card, gain 1 Block."
+59,Alchemize,,Rare,Skill,1(0),Obtain a random potion. Exhaust.
+60,Bullet Time,,Rare,Skill,3(2),You cannot draw additional cards this turn. Reduce the cost of all cards in your hand to 0 this turn.
+61,Burst,,Rare,Skill,1,"This turn, your next 1(2) Skill(s) is(are) played twice."
+62,Corpse Explosion,,Rare,Skill,2,"Apply 6(9) Poison. When the enemy dies, deal damage equal to its max HP to ALL enemies."
+63,Die Die Die,,Rare,Attack,1,Deal 13(17) damage to ALL enemies. Exhaust.
+64,Doppelganger,,Rare,Skill,X,"Next turn, draw X(+1) cards and gain X(+1) Energy."
+65,Envenom,,Rare,Power,2(1),"Whenever an attack deals unblocked damage, apply 1 Poison."
+66,Glass Knife,,Rare,Attack,1,Deal 8(12) damage twice. Decrease the damage of this card by 2 this combat.
+67,Grand Finale,,Rare,Attack,0,Can only be played if there are no cards in your draw pile. Deal 50(60) damage to ALL enemies.
+68,Malaise,,Rare,Skill,X,Enemy loses X(+1) Strength. Apply X(+1) Weak. Exhaust.
+69,Nightmare,,Rare,Skill,3(2),"Choose a card. Next turn, add 3 copies of that card into your hand. Exhaust."
+70,Phantasmal Killer,,Rare,Skill,1(0),"On your next turn, your Attacks deal double damage."
+71,Storm of Steel,,Rare,Skill,1,Discard your hand. Add 1 Shiv(+) into your hand for each card discarded.
+72,Tools of the Trade,,Rare,Power,1(0),"At the start of your turn, draw 1 card and discard 1 card."
+73,Unload,,Rare,Attack,1,Deal 14(18) damage. Discard all non-Attack cards in your hand.
+74,Wraith Form,,Rare,Power,3,"Gain 2(3) Intangible. At the end of your turn, lose 1 Dexterity."
